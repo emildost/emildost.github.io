@@ -1,2 +1,2 @@
 # emildostdesign.github.io
-Auu
+deneme
